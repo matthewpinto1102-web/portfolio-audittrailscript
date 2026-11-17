@@ -1,0 +1,15 @@
+==================================================
+AUDIT TRAIL PROCESSING SUMMARY REPORT
+==================================================
+Start Time       : 10/19/2026 20:54:39
+Finish Time      : 10/19/2026 20:54:40
+Total Runtime    : 00:00:01.3979062
+Source Path      : C:\Users\matth\Downloads\AuditTrails\Q1_Input
+Output Path      : C:\Users\matth\Downloads\AuditTrails\Q1_Output
+Files Scanned    : 20
+Lines Scanned    : 3000
+Lines Exported   : 3000
+Off-Hours Range  :  - 
+Action Items     : Bulk.Delete, Modify.Permissions, Move.File
+Whitelisted Bots : scdm-autobot-one
+==================================================
